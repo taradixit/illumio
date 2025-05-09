@@ -1,4 +1,4 @@
-Python code to process flow logs file is in flow_logs_parser.py class. The sample lookup_table file is in the data folder.
+Python code to process flow logs file is in flow_logs_parser.py file. The sample lookup_table file is in the data folder.
 
 This code will only work with the sample flow log data format provided in the email. It has to be modified if the data type or column ordering changes.
 
